@@ -4,10 +4,10 @@ Project Status: App has been sent to Apple for review.
 
 # Screenshots
 <p>
-  <img src="/screenshots/1emaillsearch.jpg?raw=true" width=250 height=500 display=inline/>
-  <img src="/screenshots/2emaildetail.jpg?raw=true" width=250 height=500 display=inline/>
-  <img src="/screenshots/3passwordgenerator.jpg?raw=true" width=250 height=500 display=inline/>
-  <img src="/screenshots/4about.jpg?raw=true" width=250 height=500 display=inline/>
+  <img src="/screenshots/1emaillsearch.jpg?raw=true" width=245 height=500 display=inline/>
+  <img src="/screenshots/2emaildetail.jpg?raw=true" width=245 height=500 display=inline/>
+  <img src="/screenshots/3passwordgenerator.jpg?raw=true" width=245 height=500 display=inline/>
+  <img src="/screenshots/4about.jpg?raw=true" width=245 height=500 display=inline/>
 </p>
 
 
