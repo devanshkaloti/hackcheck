@@ -29,3 +29,9 @@ Generate a random password based on the parameters you set.
 
 By using our service, you can prevent your accounts from being misused. How? When a hacker hacks a service, they dump the data online for others to use. These hackers will buy and use your information (say email id and password on your favourite website), and they will try it against other popular services in hopes that you've used the same password or information. "Leaks" is a term that refers to data made public that otherwise should remain private, and a "hack" is when a user (a hacker) gets unauthorized access to a system. 
 
+
+# NOTE: 
+You will need a active API key from haveibeenpwned.com, and then use this key in the "Hack Check / Extras / Network.swift" file. 
+Feel free to contact if you have any questions. 
+
+Thanks. 
