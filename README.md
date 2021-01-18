@@ -1,6 +1,6 @@
 # Hack Check
 
-Project Status: App has been sent to Apple for review. 
+Project Status: -----
 
 # Screenshots
 <p>
