@@ -1,7 +1,5 @@
 # Hack Check
 
-Project Status: -----
-
 # Screenshots
 <p>
   <img src="/screenshots/1emaillsearch.jpg?raw=true" width=245 height=500 display=inline/>
